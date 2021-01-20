@@ -28,8 +28,6 @@ function slideShow() {
     setTimeout(function() {
         x.src = imgArray[curIndex];
         x.className = "";
-        console.log(curIndex);
-        console.log(x.src);
     },1000);
     curIndex++;
     if (curIndex == imgArray.length) { curIndex = 0; }
