@@ -6,6 +6,7 @@ background: linear-gradient(to bottom, #29323c, #485563);
 
 
 }
+@media only screen and (min-width: 1000px){
 :root {
 	--cursorX: 50vw;
 	--cursorY: 50vh;
@@ -23,6 +24,7 @@ background: linear-gradient(to bottom, #29323c, #485563);
 	  rgba(255, 255, 255, 0) 100%
 	)
   }
+}
 body{
 	display: flex;
 	justify-content: center;
