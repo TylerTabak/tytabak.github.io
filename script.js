@@ -6,5 +6,7 @@ function update(e){
     document.documentElement.style.setProperty('--cursorY', y + 'px')
   }
   
+  if (window.screen.width > 1000 ){
   document.addEventListener('mousemove',update)
-  document.addEventListener('touchmove',update)
+  document.addEventListener('touchmove',update)}
+  console.log(window.screen.width)
