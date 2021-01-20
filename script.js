@@ -9,4 +9,3 @@ function update(e){
   if (window.screen.width > 1000 ){
   document.addEventListener('mousemove',update)
   document.addEventListener('touchmove',update)}
-  console.log(window.screen.width)
