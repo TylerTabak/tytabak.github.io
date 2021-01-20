@@ -18,8 +18,8 @@ background: linear-gradient(to bottom, #29323c, #485563);
 	position: fixed;
 	background: radial-gradient(
 	  circle 10vmax at var(--cursorX) var(--cursorY),
-	  rgba(255, 242, 242, 0.2) 0%,
-	  rgba(255, 255, 255, 0.1) 20%,
+	  rgba(119, 102, 216, 0.2) 0%,
+	  rgba(119, 102, 216, 0.1) 20%,
 	  rgba(255, 255, 255, 0) 100%
 	)
   }
