@@ -20,7 +20,7 @@ function update(e){
     'images/mongodb.svg',
     'images/mysql.svg'],
     curIndex = 0;
-    imgDuration = 3000;
+    imgDuration = 4000;
 
 function slideShow() {
     var x = document.getElementById('slider');
