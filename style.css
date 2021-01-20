@@ -101,9 +101,9 @@ h1{
     opacity:0;
 }
 
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 800px){
 	#slider{
-		margin-top:10em;
+	   margin-top:50px;
 	}
 }
 
