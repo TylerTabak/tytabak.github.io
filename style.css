@@ -6,6 +6,10 @@ background: linear-gradient(to bottom, #29323c, #485563);
 
 
 }
+
+html,body{
+	overflow: hidden;
+}
 @media only screen and (min-width: 1000px){
 :root {
 	--cursorX: 50vw;
