@@ -7,5 +7,4 @@ function update(e){
   }
   
   if (window.screen.width > 1000 ){
-  document.addEventListener('mousemove',update)
-  document.addEventListener('touchmove',update)}
+  document.addEventListener('mousemove',update)}
