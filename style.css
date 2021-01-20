@@ -91,7 +91,7 @@ h1{
 
 #slider {
     opacity:1;
-	transition: opacity 0.5s; 
+	transition: opacity 1s; 
 	height: 100px;
 	width: auto;
 	margin-top:15em;
