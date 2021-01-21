@@ -252,6 +252,7 @@ i.fa-envelope:hover{
 	}
 	.single-project{
 		min-width: 28vw;
+		min-height: 20vh;
 	}
 	#header-row{	
 		margin: 100px 0;
