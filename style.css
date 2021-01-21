@@ -262,6 +262,9 @@ i.fa-envelope:hover{
 body{
 	justify-content: unset;
 }
+.projects-btn.open{
+	height:35vh;
+}
 }
 
 .projects-btn:hover a{
