@@ -254,11 +254,14 @@ i.fa-envelope:hover{
 		min-width: 28vw;
 	}
 	#header-row{	
-		margin-bottom: 100px;
+		margin: 100px 0;
 	}
 	.row.slider-row {
-		margin-bottom: 100px;
-	}
+    margin-bottom: 100px;
+}
+body{
+	justify-content: unset;
+}
 }
 
 .projects-btn:hover a{
