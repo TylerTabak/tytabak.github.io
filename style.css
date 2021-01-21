@@ -256,6 +256,9 @@ i.fa-envelope:hover{
 	#header-row{	
 		margin-bottom: 100px;
 	}
+	.row.slider-row {
+		margin-bottom: 100px;
+	}
 }
 
 .projects-btn:hover a{
