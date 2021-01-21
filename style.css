@@ -262,6 +262,7 @@ i.fa-envelope:hover{
 }
 body{
 	justify-content: unset;
+	touch-action: auto;
 }
 .projects-btn.open{
 	height:33vh;
