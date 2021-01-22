@@ -196,6 +196,8 @@ i.fa-envelope:hover{
 	color:#fff;
 }
 
+
+
 .project-card{
 	display:flex;
 	flex-direction: column;
@@ -228,6 +230,10 @@ i.fa-envelope:hover{
 	height:100%;
 	min-height: 25vh;
 	min-width: 19vw
+}
+
+.single-project:hover{
+	box-shadow: #ffffff75 0 0 0 100em inset;
 }
 
 @media only screen and (max-width: 1000px){
