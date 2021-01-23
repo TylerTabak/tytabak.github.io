@@ -1,10 +1,9 @@
 html{
 	height: 100vh;
+}
+
+body{
 	background: #485563;
-background: -webkit-linear-gradient(to bottom, #29323c, #485563);
-background: linear-gradient(to bottom, #29323c, #485563);
-
-
 }
 
 @media only screen and (min-width: 1000px){
