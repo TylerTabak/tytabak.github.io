@@ -4,6 +4,7 @@ html{
 
 body{
 	background: #485563;
+	overflow-x: hidden;
 }
 
 @media only screen and (min-width: 1000px){
