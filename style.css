@@ -183,7 +183,7 @@ i.fa-envelope:hover{
 
 .project-3{
 	background: url(images/project-4-1.png);
-	background-size:contain;
+	background-size:cover;
 	background-repeat: no-repeat;
 	background-position: 50%;
 	background-color:#fff;
